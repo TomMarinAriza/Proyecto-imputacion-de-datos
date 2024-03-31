@@ -19,4 +19,4 @@ print ("Haciendo la limpieza de datos \n")
 df_imputed = EDA.data_cleaning.imputting_by_mean(df)
 
 print ("\n Datos imputados: ")
-print(df_imputed)
+print(df_imputed )
